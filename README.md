@@ -7,6 +7,10 @@ There are three tools: a solid noise generator, an arena generator and a 3D
 scene builder. The three tools can be easily piped into each other to generate
 the arena and the preview images.
 
+![Example arena: solid](examples/solid/arena4.png)
+![Example arena: minecraft](examples/minecraft/arena9.png)
+![Example arena: realistic](examples/realistic/arena11.png)
+
 ### Noise generator
 The noise generator is based on the noise function described in [Perlin, K. &
 Hoffert, E. M. (1989). Hypertexture. SIGGRAPH Comput. Graph., 23,
